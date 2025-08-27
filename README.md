@@ -42,10 +42,13 @@ This repository represents a step-by-step professional rebuild using **modern Ja
 ---
 
 ## 📂 Repo Structure
-/docs → Screenshots & diagrams
-/scripts → Helper scripts (Windows & Linux)
-/sql → Database schema & seed data
-/webapps → Deployed WARs (legacy)
+.
+├── docs/ # Screenshots & diagrams
+├── scripts/ # Helper scripts (Windows & Linux)
+├── sql/ # Database schema & seed data
+├── webapps/ # Deployed WARs (legacy)
+├── README.md # Project documentation
+└── LICENSE # Open-source license
 
 ---
 
