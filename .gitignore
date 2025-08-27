@@ -1,0 +1,28 @@
+# Java & build
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# IDEs
+/.project
+/.classpath
+/.settings/
+/*.iml
+/.idea/
+/*.ipr
+/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tomcat
+logs/
+work/
+temp/
+
+# Env
+.env
