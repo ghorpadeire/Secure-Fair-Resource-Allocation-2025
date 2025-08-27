@@ -6,7 +6,7 @@ This repository represents a step-by-step professional rebuild using **modern Ja
 ---
 
 ## 📌 Project Overview
-- **Original Legacy Stack**: JSP/Servlets, WAR deployed on Tomcat, MariaDB SQL backend.
+- **Legacy Stack**: JSP/Servlets, WAR deployed on Tomcat, MariaDB SQL backend.
 - **Key Features**:
   - AES-based file encryption & decryption
   - File splitting, deduplication & secure storage
@@ -55,7 +55,7 @@ This repository represents a step-by-step professional rebuild using **modern Ja
 ## 👨‍💻 Author
 Pranav Ghorpade  
 - MSc Cybersecurity, NCI Dublin  
-- [LinkedIn](https://linkedin.com/in/ghorpadeire) | [GitHub](https://github.com/ghorpadeire)
+- [LinkedIn](https://linkedin.com/in/pranav-ire/) | [GitHub](https://github.com/ghorpadeire)
 
 ---
 
